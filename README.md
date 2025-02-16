@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h1>Hi there 👋</h1>
 
-<p>I'm <strong>Pawan</strong> – a passionate <strong>Full Stack and Blockchain Developer</strong> with over 3.5 years of experience building scalable and secure applications. I thrive on creating innovative solutions in <strong>Web3</strong> and <strong>DApp development</strong> while also bringing a strong full stack background to the table.</p>
+<p>I'm <strong>Pawan</strong> – a passionate <strong>Full Stack and Blockchain Developer</strong> with over 4 years of experience building scalable and secure applications. I thrive on creating innovative solutions in <strong>Web3</strong> and <strong>DApp development</strong> while also bringing a strong full stack background to the table.</p>
 
 <ul>
   <li>🔭 <strong>Currently working on:</strong> Developing a stablecoin project focused on optimized collateral management for efficient minting.</li>
